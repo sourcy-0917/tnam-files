@@ -1,3 +1,1 @@
-helloworld:
- files:
-  - helloworld.tar.xz
+helloworld: 0.0.1
