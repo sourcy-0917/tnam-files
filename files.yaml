@@ -1,4 +1,15 @@
-helloworld: 0.0.1
-telegram-desktop: 5.12.3
-github-desktop: 3.4.13-rc1
-code: 1.98.2
+helloworld:
+ version: 0.0.1
+
+telegram-desktop: 
+ version: 5.12.3
+
+github-desktop: 
+ version: 3.4.13-rc1
+
+code: 
+ version: 1.98.2
+
+python3:
+ inner: python3, python3-pip, python3-minimal, libc6, libssl3t64
+ version: 25.0
